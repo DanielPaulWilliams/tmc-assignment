@@ -31,7 +31,7 @@ In order to test this application locally follow these steps:
 
 1. Ensure you're running within a virtual environment such as venv in order to prevent package issues on your local machine. 
    1. Install virtualenv: `pip install virtualenv`
-   2. Create a new virtualenv environment: `python -m venv myenv`
+   2. Create a new virtualenv environment: `python -m venv venv`
    3. Activate the virtualenv: `source venv/bin/activate`
 2. Install all the Python package dependencies using pip.
     1. `pip install -r app/requirements.txt`
