@@ -12,7 +12,7 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://127.0.0.1:80/user",
+					"raw": "http://127.0.0.1:8000/users",
 					"protocol": "http",
 					"host": [
 						"127",
@@ -20,9 +20,9 @@
 						"0",
 						"1"
 					],
-					"port": "80",
+					"port": "8000",
 					"path": [
-						"user"
+						"users"
 					]
 				}
 			},
